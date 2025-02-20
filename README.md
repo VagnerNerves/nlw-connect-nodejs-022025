@@ -106,7 +106,11 @@ You will need to run Docker and then execute the command to create the PostgreSQ
   docker compose up -d
 ```
 
-Execute the Drizzle ORM generate command to create the database and tables
+Execute the Drizzle ORM migrate and generate command to create the database and tables
+
+```bash
+  npx drizzle-kit migrate
+```
 
 ```bash
   npx drizzle-kit generate
