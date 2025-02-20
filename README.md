@@ -195,7 +195,7 @@ Access http://localhost:33333/docs for the route documentation with Swagger.
 
 ## 🌎 License
 
-This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
+This project is under the MIT license. See the [LICENSE](https://github.com/VagnerNerves/nlw-connect-nodejs-022025/tree/main?tab=MIT-1-ov-file) file for more details.
 
 ## ✒ Author
 
