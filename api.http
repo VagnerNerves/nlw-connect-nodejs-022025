@@ -3,13 +3,18 @@ Content-Type: application/json
 
 {
   "name": "Vagner Nerves",
-  "email": "vagnernervessantos@gmail.com"
+  "email": "vagnernervessantosoutro@gmail.com",
+  "referrer": "5e7f8ebb-aac6-4254-a9cb-8c6fb1537622"
 }
 
 ####
 
-GET http://localhost:3333/invites/vagnernerves
+GET http://localhost:3333/invites/5e7f8ebb-aac6-4254-a9cb-8c6fb1537622
 
 ####
 
-GET http://localhost:3333/subscribers/vagnernerves/ranking/clicks
+GET http://localhost:3333/subscribers/5e7f8ebb-aac6-4254-a9cb-8c6fb1537622/ranking/clicks
+
+####
+
+GET http://localhost:3333/subscribers/5e7f8ebb-aac6-4254-a9cb-8c6fb1537622/ranking/count
