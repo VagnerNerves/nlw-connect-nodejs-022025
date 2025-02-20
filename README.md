@@ -25,7 +25,7 @@ I developed the backend for the NLW Connect project using Node.js, Fastify, and 
 
 ## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself.
+https://github.com/user-attachments/assets/1b5a1a4e-6e46-4702-aab9-499a4035de0e
 
 <!-- ## 🎨 Layout
 
